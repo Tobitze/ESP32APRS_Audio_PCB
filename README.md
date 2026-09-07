@@ -17,7 +17,7 @@ This PCB has:
 
 -Every other Pin of the esp32 is led out to some connectors for future extensions, including four power pins
 
-If you don't want to order this for yourself, get in touch; maybe I still have some lying around.
+If you don't want to order this for yourself, get in touch; maybe I still have some lying around. (See qrz.com for email address)
 
 73 de
 DC4TA
