@@ -680,7 +680,7 @@
         "uuid": "4e19278f-746e-4aa5-860d-024463cd758b"
       }
     ],
-    "used_designators": "esp32s1,D1-2,GPS1-3,#PWR1-22,uC1,J1-13,R1-14,C1-6,Q1,RV1-2,JP1,UART2",
+    "used_designators": "esp32s1,GPS1-3,#PWR1-22,D1-2,uC1,R1-14,J1-13,C1-6,Q1,RV1-2,JP1,UART2",
     "variants": []
   },
   "sheets": [
