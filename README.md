@@ -7,9 +7,9 @@ This PCB has:
 
 -NPN transistor for PTT control
 
--GPIO PWM Filters
+-GPIO PWM Filters (Audio Output)
 
--ADC Input Bias
+-ADC Input DC Bias (Audio Input)
 
 -UART Connectors for external GPS PCBs and other stuff (Supposed to be under the Board)
 
