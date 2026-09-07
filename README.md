@@ -4,14 +4,20 @@ It's oriented around Nakhonthai's layouts with some small changes.
 I designed it for my esp32s3-N16R8 (the one already on a PCB, not the chip itself). Please check your Pin configuration before using this.
 
 This PCB has:
+
 -NPN transistor for PTT control
+
 -GPIO PWM Filters
+
 -ADC Input Bias
+
 -UART Connectors for external GPS PCBs and other stuff (Supposed to be under the Board)
+
 -Connectors for simple three-pin Sensors
+
 -Every other Pin of the esp32 is led out to some connectors for future extensions, including four power pins
 
 If you don't want to order this for yourself, get in touch; maybe I still have some lying around.
 
-73
+73 de
 DC4TA
