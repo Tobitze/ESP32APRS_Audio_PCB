@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "esp32s3_audio_stuff") (type "KiCad") (uri "${KIPRJMOD}/esp32s3_audio_stuff.pretty") (options "") (descr ""))
+)
