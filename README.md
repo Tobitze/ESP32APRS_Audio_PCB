@@ -3,6 +3,8 @@ This PCB implements the basic components to work with an esp32s3 and an external
 It's oriented around Nakhonthai's layouts with some small changes.
 I designed it for my esp32s3-N16R8 (the one already on a PCB, not the chip itself). Please check your Pin configuration before using this.
 
+TODO: This PCB has three UART Connectors, but no I2C für WX Sensors. You can reconfigure one of them, but the pin Layout then needs one wire on the pcb.
+
 This PCB has:
 
 -NPN transistor for PTT control
